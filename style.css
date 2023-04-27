@@ -1,0 +1,43 @@
+body{
+    background-color:black;
+   } 
+  
+   
+ 
+h3 {
+    background-color: RGB(249, 0, 0)
+   }
+h4 {
+    background-color: RGB(249, 0, 0); 
+   }
+
+h5 {
+  font-size: 20px;
+}
+.leftstr, .rightstr {
+    float: left; /* Обтекание справа */ 
+    width: 50%; /* Ширина текстового блока */ 
+   }
+   .rightstr {
+    text-align: right; /* Выравнивание по правому краю */ 
+   }
+   p{
+    background-color: RGB(249, 0, 0); 
+   font-size: 30px;
+
+   }
+   .image {
+  position  : relative;
+  width   : 100%; /* for IE 6 */
+}
+
+h2 {
+  position  : absolute;
+  top   : 200px;
+  left    : 100;
+  width   : 100%;
+}
+
+h5 {
+    background-color: black
+   }
