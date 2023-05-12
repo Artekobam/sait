@@ -12,7 +12,7 @@
 	position: absolute;
 	color: white;
 	top:60px;
-	left:200px;
+	left:150px;
 	font-size: 23px;
 	font-weight:700 ;
 
@@ -21,7 +21,7 @@
 	position: absolute;
 	color: white;
 	top: 60px;
-	left: 1160px;
+	left: 900px;
 	font-weight: 700;
 	font-size: 20px;
 
@@ -30,7 +30,7 @@
 	position: absolute;
 	color: white;
 	top:60px;
-	left: 1390px;
+	left: 1100px;
 		font-weight: 700;
 	font-size: 20px;
  
@@ -39,7 +39,7 @@
 	position: absolute;
 	color: white;
 	top: 60px;
-	left: 1730px;
+	left: 1380px;
 		font-weight: 700;
 	font-size: 20px;
 
@@ -57,7 +57,7 @@ h1{
 .footer {
   position: absolute;
   left: 0;
-  bottom: -260px;
+  bottom: -560px;
   width: 100%;
 }
 
