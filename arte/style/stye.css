@@ -21,7 +21,7 @@
 	position: absolute;
 	color: white;
 	top: 60px;
-	left: 1130px;
+	left: 930px;
 	font-weight: 700;
 	font-size: 20px;
 
@@ -30,7 +30,7 @@
 	position: absolute;
 	color: white;
 	top:60px;
-	left: 1380px;
+	left: 1100px;
 		font-weight: 700;
 	font-size: 20px;
  
@@ -39,7 +39,7 @@
 	position: absolute;
 	color: white;
 	top: 60px;
-	left: 1700px;
+	left: 1400px;
 		font-weight: 700;
 	font-size: 20px;
 
@@ -60,4 +60,93 @@ h1{
   bottom: -560px;
   width: 100%;
 }
+.footer_2 {
+  position: absolute;
+  left: 0;
+  bottom: -3760px;
+  width: 100%;
+}
+
+.kat_1 {
+	  position: absolute;
+
+margin: 200px 00px ;
+}
+.kat_2 {
+	  position: absolute;
+
+margin: 200px 330px ;
+}
+.kat_3 {
+	  position: absolute;
+
+margin: 167px 630px ;
+}
+.kat_4 {
+	  position: absolute;
+
+margin: 175px 1000px ;
+}
+.kat_5 {
+	  position: absolute;
+
+margin: 750px 00px ;
+}
+.kat_6 {
+	  position: absolute;
+
+margin: 750px 330px ;
+}
+.kat_7 {
+	  position: absolute;
+
+margin: 750px 650px ;
+}
+.kat_8 {
+	  position: absolute;
+
+margin: 1280px 00px ;
+}
+.kat_9 {
+	  position: absolute;
+
+margin: 1250px 330px ;
+}
+
+.kat_10 {
+	  position: absolute;
+
+margin: 1800px 0px ;
+}
+.kat_11 {
+	  position: absolute;
+
+margin: 1800px 290px ;
+}
+.kat_12 {
+	  position: absolute;
+
+margin: 2300px 0px ;
+}
+.kat_13 {
+	  position: absolute;
+
+margin: 2350px 330px ;
+}
+.kat_14 {
+	  position: absolute;
+
+margin: 2850px 0px ;
+}
+.kat_15 {
+	  position: absolute;
+
+margin: 2850px 330px ;
+}
+.kat_16 {
+	  position: absolute;
+
+margin: 3350px 0px ;
+}
+
 
