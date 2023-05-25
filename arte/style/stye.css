@@ -65,6 +65,14 @@ h1{
   left: 0;
   bottom: -3760px;
   width: 100%;
+
+}
+.footer_3 {
+  position: absolute;
+  left: 0;
+  bottom: -3760px;
+  width: 100%;
+  
 }
 
 .kat_1 {
@@ -75,78 +83,98 @@ margin: 200px 00px ;
 .kat_2 {
 	  position: absolute;
 
-margin: 200px 330px ;
+margin: 200px 340px ;
 }
 .kat_3 {
 	  position: absolute;
 
-margin: 167px 630px ;
+margin: 167px 650px ;
 }
 .kat_4 {
 	  position: absolute;
 
-margin: 175px 1000px ;
+margin: 175px 1030px ;
 }
 .kat_5 {
 	  position: absolute;
 
-margin: 750px 00px ;
+margin: 780px 00px ;
 }
 .kat_6 {
 	  position: absolute;
 
-margin: 750px 330px ;
+margin: 780px 350px ;
 }
 .kat_7 {
 	  position: absolute;
 
-margin: 750px 650px ;
+margin: 780px 685px ;
 }
 .kat_8 {
 	  position: absolute;
 
-margin: 1280px 00px ;
+margin: 1350px 00px ;
 }
 .kat_9 {
 	  position: absolute;
 
-margin: 1250px 330px ;
+margin: 1320px 350px ;
 }
 
 .kat_10 {
 	  position: absolute;
 
-margin: 1800px 0px ;
+margin: 1910px 0px ;
 }
 .kat_11 {
 	  position: absolute;
 
-margin: 1800px 290px ;
+margin: 1910px 310px ;
 }
 .kat_12 {
 	  position: absolute;
 
-margin: 2300px 0px ;
+margin: 2430px 0px ;
 }
 .kat_13 {
 	  position: absolute;
 
-margin: 2350px 330px ;
+margin: 2475px 360px ;
 }
 .kat_14 {
 	  position: absolute;
 
-margin: 2850px 0px ;
+margin: 3020px 0px ;
 }
 .kat_15 {
 	  position: absolute;
 
-margin: 2850px 330px ;
+margin: 3020px 355px ;
 }
 .kat_16 {
 	  position: absolute;
 
-margin: 3350px 0px ;
+margin: 3560px 0px ;
+}
+.kb1 {
+	  position: absolute;
+
+margin: 200px 30px ;
+}
+.kb2 {
+	  position: absolute;
+
+margin: 1015px 30px ;
+}
+.kb3 {
+	  position: absolute;
+
+margin: 1815px 30px ;
 }
 
+.kb4 {
+	  position: absolute;
+
+margin: 2615px 30px ;
+}
 
