@@ -1,0 +1,203 @@
+body {
+	background-color:black;
+	margin: 0;
+}
+
+/*HEADER*/
+.page-header{
+	background-color: #2F4F4F;
+	margin-bottom: 40px;
+}
+
+
+.site-navigation {
+	margin:0 auto;
+	padding: 25px;
+	width: 1380px;
+	display: flex;
+	justify-content: space-between;
+}	
+
+
+.artbot {
+	padding-left: 90px;
+	align-items: center;
+
+}
+.item{
+	position: relative;
+}
+.icon{
+		display: grid;
+
+	width: 90px;
+	height: 90px;
+	z-index: 5;
+	position: absolute;
+}
+
+.menu {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.site-navigation-item {
+	display: flex;
+	background-color: red;
+	margin-right: 10px;
+}
+
+.site-navigation-item a {
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+	font-size: 30px;
+
+}
+
+
+/*Каталог
+*/.cards{
+	display:flex;
+	flex-wrap: wrap;
+	column-gap: 70px;
+	grid-row-gap:50px; 
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+h1 {
+	font-size: 20px;
+	color: white;  
+	text-align: center 
+}
+h2 {
+	font-size: 20px;
+	color: white;   	
+}
+
+.card{
+	width: 274px;
+	font-size: 0px; 
+	background-color: #696969; 
+	border-radius: 20px 20px 20px 20px ;	
+}
+
+.computer{
+	height: 266px;
+	background-color: white;
+	padding: 6px;
+	border-radius: 20px 20px 0px 0px ;
+	width: 262px;
+	height: 274px;
+}
+
+.info{
+	padding: 10px;
+}
+
+.basket_in_price{
+	display: flex;
+	justify-content:  space-between;
+}
+
+
+/*Кибер-клубы*/
+.cyber_card{
+	background-color: red;
+	margin: 60px;
+}
+
+.club_cart{
+	padding: 15px;
+	display: flex;
+}
+
+.cyber_info_link{
+	display: flex;
+	justify-content: space-between;
+	padding: 15px;
+	background-color: #800080;
+	font-size: 23px;
+	color: white;
+}
+
+.description{
+	font-size:23px;
+	color: white;
+	padding: 15px;
+	padding-top: 0;
+}
+
+.cyber_info_link p{
+	margin: 0;
+}
+
+.club_cart img{
+	width: 300px; 
+	height: 300px;
+}
+
+/*Корзина*/
+
+
+
+.card_basket{
+	background-color: #8B0000;
+
+	margin: 40px;
+
+}
+
+.content_basket{
+	display: flex;
+	justify-content: space-between;
+	padding: 15px;
+	margin-bottom: 40px;
+}
+.basket_picture{
+	background-color: white;
+	border-radius: 20px;
+	padding: 15px;
+	width: 260px;
+	height: 137px;
+}
+.info_basket {
+	display: flex;
+	font-size:28px;
+	color: white;
+	padding: 25px;
+	grid-gap: 50px;
+}
+
+.button-container {
+	display: flex;
+	align-self: center;
+
+}
+
+.info_basket  button{
+	color: white;
+	padding: 10px;
+	border-radius: 20px;
+	font-size:20px;
+	background-color: red;
+}
+/*Подвал*/
+.info_footer{
+	background-color: #2F4F4F;
+	display: flex;
+	justify-content: space-between;
+	font-size:17px;
+	color: white;
+	padding: 25px;
+	margin-top: 20px;
+
+}
+.info_footer a{
+	display: block;
+	text-decoration: none;
+	color: grey;
+
+}
